@@ -1,0 +1,1 @@
+## A Simple bot for marking your Presenece in your Discord Server. Based on [Discord.py](https://github.com/Rapptz/discord.py) repository.
